@@ -1,0 +1,16 @@
+{
+  "name": "Natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass ./starter/sass/main.scss ./starter/css/style.css --watch --poll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "sass": "^1.100.0"
+  }
+}
